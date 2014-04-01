@@ -1,0 +1,115 @@
+#NERFail, .rounded, .commentarea, .linkinfo{
+    background:rgb(255,255,255);
+    color:rgb(0,0,0);
+}
+.link .title a, a{
+    color:rgb(190,36,28);
+}
+body{
+    background:url(%%ffr-checker%%);
+}
+.roundfield{
+    background:rgb(190,36,28);
+}
+form .statebutton span a, .togglebutton{
+    background:rgb(255,255,255);
+    color:rgb(190,36,28);
+}
+/*form{
+    background:url(%%ffr-checker%%);
+    color:rgb(190,36,28);
+}*/
+.md, .gadget{
+    background:rgb(255,255,255);
+    color:rgb(190,36,28);
+    opacity:.8;
+}
+.md:hover, .gadget:hover{
+    opacity:1;
+}
+.tabmenu li a{
+    border-color:rgb(255,255,255);
+    background:rgb(190,36,28);
+    color:rgb(255,255,255);
+    font-size:13px;
+}
+.tabmenu li .selected a, .tabmenu li a:hover{
+    border-color:rgb(190,36,28);
+    background:rgb(255,255,255);
+    color:rgb(190,36,28);
+}
+.redditname a{
+    color:rgb(194,194,0);
+    font-family:"FreeSerif";
+    font-size:30px;
+    font-style:italic;
+}
+.redditname:hover{
+    background:rgb(190,36,28);
+    color:rgb(255,255,255);
+}
+.spacer{
+    background:rgb(190,36,28);
+}
+.morelink a{
+    background:rgb(109,36,28);
+    color:rgb(255,255,255);
+}
+.sidebox, .morelink:hover a{
+    background:rgb(255,255,255);
+    color:rgb(190,36,28);
+}
+#header-bottom-right{
+    color:rgb(240,240,240)!important;
+}
+#header, .side{
+    background:rgb(190,36,28);
+    color:rgb(240,240,240);
+}
+.nub{
+    display:none;
+}
+.morelink, .content{
+    background:rgb(255,255,255);
+}
+.flair:hover{
+    text-indent:10px;
+    /*background:lel;*/
+    border:0;
+}
+
+.flair-burger-king:hover{
+    background:url(%%favicon-bk%%);
+    background-repeat:no-repeat;
+}
+.sidecontentbox .flair-burger-king{
+    background:url(%%favicon-bk%%);
+    background-repeat:no-repeat;
+}
+.flair-chik-fil-a:hover{
+    background:url("%%favicon%%");
+    background-repeat:no-repeat;
+}
+.sidecontentbox .flair-chik-fil-a{
+    background:url("%%favicon%%");
+    background-repeat:no-repeat;
+}
+
+.submit{
+    background:url("%%tumblr-m6pecd6Ur01ry10fwo1-500%%");
+    background-repeat:no-repeat;
+}
+
+.info-box{
+    right:100px!important;
+    position:absolute!important;
+}
+.link{
+    background:rgb(255,255,255);
+}
+.content .formtabs-content{
+    opacity:.7;
+}
+.content:hover .formtabs-content{
+    opacity:1;
+}
